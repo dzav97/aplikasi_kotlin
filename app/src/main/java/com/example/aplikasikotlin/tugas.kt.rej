@@ -1,0 +1,4 @@
+diff a/app/src/main/java/com/example/aplikasikotlin/tugas.kt b/app/src/main/java/com/example/aplikasikotlin/tugas.kt	(rejected hunks)
+@@ -0,0 +1,2 @@
++package com.example.aplikasikotlin
++
