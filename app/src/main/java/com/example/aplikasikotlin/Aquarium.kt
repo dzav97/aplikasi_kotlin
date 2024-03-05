@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
 }
 
 fun randomday(): String {
-    val days = listOf("Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu")
+    val days = listOf("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
     return days.random()
 }
 
